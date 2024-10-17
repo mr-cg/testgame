@@ -5,3 +5,4 @@
 
 - Ju Lima
 - Bia Abram
+- Sara Pontes
